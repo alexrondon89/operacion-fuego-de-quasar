@@ -14,7 +14,11 @@ Existen dos opciones para ejecutar el servicio.
    
    - https://app.swaggerhub.com/apis-docs/alexrondon1/Ejercicio-meli/1.3
     
-2) Desde la terminal, ubicado en la carpeta del ejercicio en cuestion, se puede ingresar el comando: local="true" go run main.go . Donde local="true" es un flag para que el acceso a los servicios de AWS sea a traves de las credenciales locales guardadas en la carpeta ./aws/credentials con el profile [default] 
+2) Desde la terminal, ubicado en la carpeta del ejercicio en cuestion, se puede ingresar el comando: 
+   
+   - local="true" go run main.go 
+     
+   Donde local="true" es un flag para que el acceso a los servicios de AWS sea a traves de las credenciales locales guardadas en la carpeta ./aws/credentials con el profile [default] 
     
 #Documentacion del proyecto.
 
