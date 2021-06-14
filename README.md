@@ -1,2 +1,2 @@
-# operaci-n-fuego-de-quasar
+# operacion-fuego-de-quasar
 prueba tecnica
